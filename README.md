@@ -8,3 +8,6 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoGSantiago&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGSantiago&layout=compact&theme=gotham)
+
+
+![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)

@@ -21,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Publicar SVG no branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: abozanona/pacman-contribution-graph@v1
         with:
           target_branch: output
           build_dir: dist

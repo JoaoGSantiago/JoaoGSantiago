@@ -14,5 +14,3 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[JoaoGSantiago]/[JoaoGSantiago]/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-

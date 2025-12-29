@@ -6,8 +6,6 @@
 
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoGSantiago&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGSantiago&layout=compact&theme=gotham)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGSantiago/JoaoGSantiago/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoGSantiago/JoaoGSantiago/output/pacman-contribution-graph.svg">

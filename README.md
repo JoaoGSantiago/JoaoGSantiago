@@ -19,7 +19,7 @@ AWS Certified Cloud Practitioner. Passionate about infrastructure as code and pr
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-gustavo-santiago)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogsantiagol@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiago.anything/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-3FB950?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://joaogsantiago.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-3FB950?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://joaogsantiago.vercel.app/?d=t)
 
 ---
 

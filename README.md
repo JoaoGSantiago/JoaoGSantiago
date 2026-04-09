@@ -25,7 +25,7 @@ AWS Certified Cloud Practitioner. Passionate about infrastructure as code and pr
 
 ### Languages · Frameworks · Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,aws,terraform,linux,docker,kubernetes,githubactions,gitlab,jenkins,git,prometheus,grafana,ansible,py,bash,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,linux,docker,kubernetes,nginx,git,github,gitlab,githubactions,jenkins,prometheus,grafana,aws,azure,gcp,go,py,nodejs,react,bash,postgres&perline=11)](https://skillicons.dev)
 
 ---
 
